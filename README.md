@@ -1,2 +1,2 @@
-# password-based-word-lock-system
-password based word lock system -keypad and finger print recognition in arduino ide
+# password-based-door-lock-system
+password based door lock system -keypad and finger print recognition in arduino ide
